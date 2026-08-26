@@ -87,7 +87,7 @@ Dev Containers: Reopen in Container
 
 VS Code will start the required Docker services and open the project inside the development container.
 
-Detailed setup and troubleshooting are in [Quick_Start.md](Quick_Start.md).
+Detailed setup and troubleshooting are in [setup.md](setup.md).
 
 ## Intended use
 
