@@ -50,7 +50,7 @@ flowchart LR
 ├── .dockerignore
 ├── .gitignore
 ├── README.md
-└── SETUP.md
+└── setup.md
 ```
 
 ## How it works
