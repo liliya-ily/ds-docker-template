@@ -96,5 +96,3 @@ This repository is meant to be used as a starting point for separate DS/ML proje
 Project-specific libraries can be added to `requirements.txt`, while the Docker configuration keeps the environment reproducible.
 
 
-git config user.name "liliya-ily"
-git config user.email "lylyshaunique@gmail.com"
