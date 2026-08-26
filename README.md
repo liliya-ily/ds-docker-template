@@ -94,5 +94,3 @@ Detailed setup and troubleshooting are in [Quick_Start.md](Quick_Start.md).
 This repository is meant to be used as a starting point for separate DS/ML projects.
 
 Project-specific libraries can be added to `requirements.txt`, while the Docker configuration keeps the environment reproducible.
-
-
